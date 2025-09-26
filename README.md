@@ -326,14 +326,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ### LED off
  
-
-![WhatsApp Image 2025-09-26 at 08 43 12_d6039df1](https://github.com/user-attachments/assets/1359aace-e9b6-4644-948b-4b24a4628963)
+![Uploading WhatsApp Image 2025-09-26 at 20.53.12_a7ff4ff3.jpg…]()
 
 
  ### LED on
  
+![WhatsApp Image 2025-09-26 at 20 53 11_f2dfaadb](https://github.com/user-attachments/assets/52cbc712-f4c4-4dc3-9686-a9ef9e7015fe)
 
-![WhatsApp Image 2025-09-26 at 08 43 14_2568b5b9](https://github.com/user-attachments/assets/70081364-22e4-4df2-9696-0063280b2b03)
 
  
 ## Result :
